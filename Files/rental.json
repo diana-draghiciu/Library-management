@@ -1,0 +1,18 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "book_id": 3,
+            "client_id": 1,
+            "rent_date": "2020-12-09",
+            "return_date": "None"
+        },
+        {
+            "id": 2,
+            "book_id": 2,
+            "client_id": 1,
+            "rent_date": "2020-12-09",
+            "return_date": "2020-12-10"
+        }
+    ]
+}

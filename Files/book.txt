@@ -1,0 +1,8 @@
+3;Baltagul;Sadoveanu
+4;Ion;Rebreanu
+5;Moara cu Noroc;Slavici
+6;Iona;Marin Sorescu
+7;Luceafarul;Eminescu
+8;Testament;Arghezi
+9;Testament;Arghezi
+2;Harap Alb;Creanga

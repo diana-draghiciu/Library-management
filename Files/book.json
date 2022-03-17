@@ -1,0 +1,14 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "title": "Harap Alb",
+            "author": "Ion Creanga"
+        },
+        {
+            "id": 2,
+            "title": "Iona",
+            "author": "Marin Sorescu"
+        }
+    ]
+}

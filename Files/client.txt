@@ -1,0 +1,7 @@
+2;Vasile
+3;Paul
+4;Aurel
+5;Zare
+6;Viorel
+1;Alex
+7;Ana
